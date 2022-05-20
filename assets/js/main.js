@@ -7,7 +7,7 @@ function onScroll() {
   activateMenuAtCurrentSection(services)
   activateMenuAtCurrentSection(about)
   activateMenuAtCurrentSection(contact)
-}finished
+}
 
 
 function activateMenuAtCurrentSection(section) {
