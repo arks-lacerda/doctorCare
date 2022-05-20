@@ -7,7 +7,8 @@ function onScroll() {
   activateMenuAtCurrentSection(services)
   activateMenuAtCurrentSection(about)
   activateMenuAtCurrentSection(contact)
-}
+}finished
+
 
 function activateMenuAtCurrentSection(section) {
   const targetLine = scrollY + innerHeight / 2
